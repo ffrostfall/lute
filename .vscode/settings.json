@@ -1,5 +1,8 @@
 {
     "luau-lsp.fflags.enableNewSolver": true,
     "luau-lsp.sourcemap.enabled": false,
-    "luau-lsp.platform.type": "standard"
+    "luau-lsp.platform.type": "standard",
+
+    "luau-lsp.types.definitionFiles": [ "typedefs/lute.d.luau" ],
+    "luau-lsp.types.documentationFiles": [ "typedefs/lute.json" ]
 }

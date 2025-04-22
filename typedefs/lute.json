@@ -1,0 +1,9 @@
+{
+     "@roblox/globaltype/CompilerResult": {
+          "documentation": "A compiled bytecode string from the Luau compiler.",
+          "keys": {
+               "bytecode": "string"
+          },
+          "code_sample": ""
+     }
+}
