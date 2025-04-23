@@ -1,5 +1,8 @@
 # fs
 
+(dont let this PRed in this is a note for me)
+dont work on this until the api is finalized
+
 ```luau
 local fs = require("@lute/fs")
 ```

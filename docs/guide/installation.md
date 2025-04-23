@@ -6,7 +6,7 @@ Lute is pre-0.1.0. There are no release versions yet. The API may change at any 
 
 ## Nightly Builds
 
-Lute is available as a nightly build. You can find and download the latest build on [releases page](https://github.com/aatxe/lute/releases).
+Lute is currently only available with nightly builds. You can find and download the latest build on [releases page](https://github.com/aatxe/lute/releases).
 
 ### Install with Rokit
 
